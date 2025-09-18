@@ -1,0 +1,55 @@
+/* Custom Admin CSS to match the blue theme in the image */
+#header {
+    background: #2c5987;
+    color: #fff;
+}
+
+#header a:link, #header a:visited {
+    color: #fff;
+}
+
+div.breadcrumbs {
+    background: #30699c;
+    color: #fff;
+}
+
+.module h2, .module caption, .inline-group h2 {
+    background: #30699c;
+    color: #fff;
+}
+
+.button, input[type=submit], input[type=button], .submit-row input, a.button {
+    background: #417690;
+}
+
+.button:hover, input[type=submit]:hover, input[type=button]:hover {
+    background: #205067;
+}
+
+.button.default, input[type=submit].default, .submit-row input.default {
+    background: #205067;
+}
+
+.button.default:hover, input[type=submit].default:hover {
+    background: #193249;
+}
+
+.module h2, .module caption, .inline-group h2 {
+    background: #30699c;
+}
+
+a:link, a:visited {
+    color: #447e9b;
+}
+
+a:hover {
+    color: #205067;
+}
+
+#changelist-filter h2 {
+    background: #30699c;
+}
+
+.selector-chosen h2 {
+    background: #30699c !important;
+}
